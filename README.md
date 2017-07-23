@@ -1,3 +1,2 @@
 # fpslatino
-hola
-http://fpslatino.net/
+hola Aero :v
